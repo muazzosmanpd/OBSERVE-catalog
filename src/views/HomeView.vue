@@ -31,7 +31,7 @@
           </svg>
         </div>
 
-        <h1>Geospatial and Satellite Services Provider in Brunei</h1>
+        <h1>Enterprise Geospatial Intelligence Platform.</h1>
         <p>          
           OBSERVE™ is a geospatial web platform that delivers the latest high-resolution satellite and aerial imagery.
           Combined with customer and third-party data, it provides GIS-powered object identification, classification, and change detection for any location.
@@ -73,22 +73,7 @@
 
     <!-- Trusted Expertise -->
     <section class="trusted-section">
-      <div>
-        <h2>Trusted Expertise</h2>
-        <p>
-          As Brunei's leading geospatial and satellite services provider, we combine cutting-edge
-          technology with over a decade of proven experience. Our OBSERVE™ platform delivers the
-          insights you need to make informed decisions, monitor critical environments, and drive
-          meaningful outcomes.
-        </p>
-      </div>
-    </section>
 
-    <section
-      class="experience-section"
-      :style="{
-        backgroundImage: `url(${oneBruneiBackground})`,
-      }">
       <div>
         <h2>Trusted Expertise</h2>
         <p>
