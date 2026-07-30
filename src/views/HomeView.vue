@@ -88,8 +88,24 @@
       class="experience-section"
       :style="{
         backgroundImage: `url(${oneBruneiBackground})`,
-      }"
-    >
+      }">
+      <div>
+        <h2>Trusted Expertise</h2>
+        <p>
+          As Brunei's leading geospatial and satellite services provider, we combine cutting-edge
+          technology with over a decade of proven experience. Our OBSERVE™ platform delivers the
+          insights you need to make informed decisions, monitor critical environments, and drive
+          meaningful outcomes.
+        </p>
+      </div>
+    </section>
+
+    <section
+      class="experience-section"
+      :style="{
+        backgroundImage: `url(${oneBruneiBackground})`,
+      }">
+
       <div>
         <h2>OneBrunei Experience</h2>
 
@@ -370,6 +386,7 @@ const useCases = [
   color: #ffffff;
   font-size: clamp(1.8rem, 3vw, 2.25rem);
   margin-bottom: 1rem;
+
 }
 
 .section-header p,
