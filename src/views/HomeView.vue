@@ -618,7 +618,7 @@ const useCases = [
 }
 
 .teal {
-  background: #134e4a;
+  background: #145752;
   color: #5eead4;
 }
 
@@ -641,7 +641,7 @@ const useCases = [
 }
 
 .red-bg {
-  background: rgba(127, 29, 29, 0.6);
+  background: rgba(123, 27, 27, 0.6);
 }
 
 .cyan-bg {
